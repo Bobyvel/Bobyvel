@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bobyvel
-- 👀 I’m interested in Web development
-- 🌱 I’m currently using React and Express
+- 👀 I’m freelance developer and writer
+- 🌱 I’m currently using React, Express and Laravel
 
 <!---
 Bobyvel/Bobyvel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
